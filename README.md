@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luong Thang Nguyen</h1>
 <h3 align="center">I'm from University of New South Wales (UNSW Sydney)!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luongthang0105&label=Profile%20views&color=0e75b6&style=flat" alt="luongthang0105" /> </p>
 
 - 📫 How to reach me **nguyenluongthang33@gmail.com**
 
