@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Luong Thang Nguyen</h1>
+<h1 align="center">Hi, I'm Luong Thang Nguyen (call me Thomas!)</h1>
 <h3 align="center">I'm from University of New South Wales (UNSW Sydney)!</h3>
 
-
-- 📫 How to reach me **nguyenluongthang33@gmail.com**
-
-- ⚡ Fun fact **I love basketball and League of Legends!**
+- 📫 How to reach me **luongthang.nguyen0105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
